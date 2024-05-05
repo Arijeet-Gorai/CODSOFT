@@ -6,6 +6,6 @@ I have Completed my 2nd Task "Password Generator Application" 04-05-2024 with my
 I have completed my third task " Basic Calculator" on 05-05-2024 using tkinter package simple GUI based.
 
 <br>
-I have completed all my tasks so fast because of my semester exams are so close and i don't havy much time to practice my lesson if the intern ship is completter fast I can practice my subjects for exam.
+I have completed all my tasks so fast because of my semester exams are so close and i don't have much time to prepare my lesson, this internship is complete now and my pressure is lite.
 <br>
 thank you soo much CODSOFT forggiving me this beautiful opportunity.
